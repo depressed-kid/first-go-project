@@ -1,0 +1,4 @@
+How count amount of files in folder?
+ls | wc -l 
+
+
